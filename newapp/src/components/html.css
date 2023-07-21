@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    background-color: green;
+    color: aliceblue;
+    padding: 5px;
+    margin: 4px;
+}
+#tagline{
+    color: black;
+    margin-top: 10px;
+    padding: 40px;
+    
+}
+
+#header-title{
+    padding: 20px;
+    border-bottom-width: 10%;
+}
+
+#content{
+    margin-right: 10px;
+    /* line-break: loose; */
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.list-item{
+    /* margin-left: 10px; */
+    list-style-type: circle;
+}
